@@ -64,7 +64,7 @@ public class NapendraBot extends TelegramLongPollingBot{
 	@Override
 	public String getBotToken() {
 		// TODO Auto-generated method stub
-		return "1871169166:AAErx6QqqEc0MAofs3ZGo01Mnu9kfqlKHHM";
+		return "add telegram token here";
 	}
 
 }
